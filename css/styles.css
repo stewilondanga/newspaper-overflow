@@ -13,14 +13,14 @@
   height: 1.5em;
 }
 
-/*.container {
+.container {
   height: 200px;
   column-width: 300px;
   border: 1px solid #ccc;
   padding: 20px 0;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
